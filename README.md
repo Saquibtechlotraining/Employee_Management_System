@@ -9,3 +9,9 @@ This is a  Employee Management System implemented in Python. This system allows 
 ③ Delete Employee ➡ You can delete an employee from the system by specifying their ID.
 
 ④ List Employees ➡ You can list all the employees in the system, displaying their ID, name, age, gender, position, and salary.
+
+# How to Use
+To use this Employee Management System, follow these steps:
+
+① Clone this repository to your local machine:
+
