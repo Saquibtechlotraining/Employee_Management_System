@@ -13,5 +13,29 @@ This is a  Employee Management System implemented in Python. This system allows 
 # How to Use
 To use this Employee Management System, follow these steps:
 
-① Clone this repository to your local machine:
+① Clone this repository to your local machine.
+
+② Navigate to the project directory.
+
+③ Run the employee_management.py script.
+
+④ Choose from the available options (1 to 5) to perform the desired operation on employee data.
+
+⑤ Follow the prompts to input the necessary information.
+
+⑥ Repeat steps 4 and 5 to continue managing employee data until you choose to exit.
+
+
+# Example Usage
+Here's an example of how you can use the Employee Management System:
+
+① Select option 1 to add an employee.
+
+② Provide employee details such as ID, name, age, gender, position, and salary.
+
+③ Continue to add, update, delete, or list employees as needed.
+
+# Dependencies
+This Employee Management System does not have any external dependencies and should run on any system with Python installed.
+
 
